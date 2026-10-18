@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+ "description": "Mock BSE API (Port 4000) and Real-Time App Backend with WebSocket Push (Port 5000)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "demo": "PULL_DURATION_MS=15000 node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "ws": "^8.22.0"
+  }
+}
