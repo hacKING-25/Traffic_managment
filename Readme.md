@@ -42,4 +42,5 @@ npm run dev
 Open `http://localhost:5173` in your browser.
 - Notice that the dashboard **opens instantly** with 500 cached trades while a background pull is already in progress.
 - You can also click **"Start 15s Demo Pull"** or **"Start Full 15-Min Pull"** in the UI to test both configurations live.
+<img width="1920" height="1080" alt="Screenshot from 2026-10-18 17-27-16" src="https://github.com/user-attachments/assets/5b114cb7-2ef5-41c7-9408-27e30b418c47" />
 
